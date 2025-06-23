@@ -25,7 +25,7 @@ body {
   background: linear-gradient(
     to bottom,
     var(--color-cream) 0%,
-    var(--color-mocha) 15%,
+    var(--color-mocha) 30%,
     var(--color-mocha) 90%,
     var(--color-cream) 100%
   );
