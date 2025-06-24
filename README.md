@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Currently needs to be ran on localhost, planning on going live early July 2025.
 
 ## Getting Started
 
